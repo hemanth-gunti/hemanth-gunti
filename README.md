@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Gunti Hemanth 👋</h1>
-<h3 align="center">Backend Developer | Systems Engineering | Containerization Enthusiast</h3>
+<h3 align="center">Backend Developer | Distributed Systems | Cloud-Native Infrastructure</h3>
 
 <p align="center">
   Final-year CS student at IIIT Surat, building reliable backend systems, distributed infrastructure, and containerized environments.
@@ -35,13 +35,12 @@
 |---|---|---|
 | [pingpilot](https://github.com/hemanth-gunti/pingpilot) | Backend uptime monitoring platform with OAuth2 auth & automated alerting | Node.js, Express, PostgreSQL |
 | [dockerized-event-system](https://github.com/hemanth-gunti/dockerized-event-system) | Dockerized full-stack event platform with OTP signup, JWT auth, and production-style deployment | Django REST, Celery, Redis, React, Nginx |
-| [Distributed Rate Limiter](#) | Redis-backed rate limiter eliminating race conditions, benchmarked at 10.8k+ req/s | Node.js, Redis, Docker |
+| [Distributed Rate Limiter](https://github.com/hemanth-gunti/Distributed-rate-limiter) | Redis-backed rate limiter eliminating race conditions, benchmarked at 10.8k+ req/s | Node.js, Redis, Docker |
 
 ### 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hemanth-kumar-0a5787278/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](linkedin.com/in/hemanth-kumar-0a5787278/)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/heiebeko/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hk744610@gmail.com)
 
 ---
 <p align="center"><i>400+ DSA problems solved on LeetCode & GeeksforGeeks</i></p>
-
